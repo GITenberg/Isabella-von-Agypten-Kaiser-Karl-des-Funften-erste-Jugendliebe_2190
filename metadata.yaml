@@ -1,0 +1,28 @@
+_repo: Isabella-von-Agypten-Kaiser-Karl-des-Funften-erste-Jugendliebe_2190
+creator:
+  author:
+    agent_name: Arnim, Ludwig Achim, Freiherr von
+    aliases:
+    - Arnim, Karl Joachim Friedrich Ludwig, Freiherr von
+    - Arnim, L. Achim (Ludwig Achim), Freiherr von
+    - Arnim, Achim von
+    birthdate: 1781
+    deathdate: 1831
+    gutenberg_agent_id: '848'
+    url: http://www.gutenberg.org/2009/agents/848
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Achim_von_Arnim
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2190'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charles V, Holy Roman Emperor, 1500-1558 -- Fiction'
+- !lcc 'PT'
+title: 'Isabella von Ägypten: Kaiser Karl des Fünften erste Jugendliebe'
+url: http://www.gutenberg.org/ebooks/2190
