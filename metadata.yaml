@@ -1,5 +1,5 @@
 _repo: Isabella-von-Agypten-Kaiser-Karl-des-Funften-erste-Jugendliebe_2190
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Charles V, Holy Roman Emperor, 1500-1558 -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: 'Isabella von Ägypten: Kaiser Karl des Fünften erste Jugendliebe'
 url: http://www.gutenberg.org/ebooks/2190
